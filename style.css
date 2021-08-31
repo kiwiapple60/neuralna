@@ -1,0 +1,12 @@
+body{
+    background-color : blueviolet;
+    text-decoration-color: cornsilk;
+}
+.heading{
+    font-style: inherit;
+}
+#camera{
+    border: 2px dashed black;
+    width :350px;
+  height :300px;
+}
